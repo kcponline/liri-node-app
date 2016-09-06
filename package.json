@@ -19,5 +19,6 @@
   "homepage": "https://github.com/kcponline/liri-node-app#readme",
   "dependencies": {
     "request": "^2.74.0"
-  }
+  },
+  "devDependencies": {}
 }
